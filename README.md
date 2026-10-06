@@ -4,7 +4,7 @@
 ## A Human-in-the-Loop Language Learning Prototype
 
 
-AI Agent Workflow for Language Learning (repository: ai-assisted-language-learning-system)
+AI Agent Workflow for Language Learning (repository: ai-agent-workflow-for-language-learning)
 is an experimental, privacy-first workflow for converting
 selected everyday English reflections into traceable learning targets,
 structured notebooks, and governed Anki review material. It combines a
