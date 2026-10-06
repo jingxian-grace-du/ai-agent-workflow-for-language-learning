@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f3e9"/><stop offset="1" stop-color="#e5eee8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#173c34" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="627" rx="32" fill="url(#bg)"/>
+  <circle cx="1090" cy="72" r="118" fill="#c8ddd0" opacity="0.7"/>
+  <circle cx="66" cy="594" r="145" fill="#e8d7ad" opacity="0.42"/>
+
+  <text x="64" y="63" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="3" fill="#247565">GRACE DU · AI / AUTOMATION PROJECT</text>
+  <text x="64" y="119" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#123d35">AI Agent Workflow for Language Learning</text>
+  <text x="64" y="157" font-family="Arial, sans-serif" font-size="22" fill="#49645d">Privacy-first · Human-in-the-loop · Traceable</text>
+
+  <g filter="url(#shadow)" font-family="Arial, sans-serif">
+    <rect x="64" y="217" width="178" height="124" rx="20" fill="#ffffff"/>
+    <text x="153" y="258" text-anchor="middle" font-size="16" font-weight="700" fill="#247565">01</text>
+    <text x="153" y="291" text-anchor="middle" font-size="20" font-weight="700" fill="#123d35">Oral</text>
+    <text x="153" y="317" text-anchor="middle" font-size="20" font-weight="700" fill="#123d35">reflection</text>
+
+    <rect x="286" y="217" width="178" height="124" rx="20" fill="#ffffff"/>
+    <text x="375" y="258" text-anchor="middle" font-size="16" font-weight="700" fill="#247565">02</text>
+    <text x="375" y="291" text-anchor="middle" font-size="19" font-weight="700" fill="#123d35">Topic</text>
+    <text x="375" y="317" text-anchor="middle" font-size="19" font-weight="700" fill="#123d35">reconstruction</text>
+
+    <rect x="508" y="217" width="178" height="124" rx="20" fill="#ffffff"/>
+    <text x="597" y="258" text-anchor="middle" font-size="16" font-weight="700" fill="#247565">03</text>
+    <text x="597" y="291" text-anchor="middle" font-size="19" font-weight="700" fill="#123d35">Learning-target</text>
+    <text x="597" y="317" text-anchor="middle" font-size="19" font-weight="700" fill="#123d35">selection</text>
+
+    <rect x="730" y="217" width="178" height="124" rx="20" fill="#ffffff"/>
+    <text x="819" y="258" text-anchor="middle" font-size="16" font-weight="700" fill="#247565">04</text>
+    <text x="819" y="291" text-anchor="middle" font-size="19" font-weight="700" fill="#123d35">Quality gates</text>
+    <text x="819" y="317" text-anchor="middle" font-size="19" font-weight="700" fill="#123d35">+ review</text>
+
+    <rect x="952" y="217" width="178" height="124" rx="20" fill="#123d35"/>
+    <text x="1041" y="258" text-anchor="middle" font-size="16" font-weight="700" fill="#9fd4c5">05</text>
+    <text x="1041" y="291" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">Reconciled</text>
+    <text x="1041" y="317" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">Anki material</text>
+  </g>
+
+  <g fill="#247565">
+    <path d="M252 272h21v-8l18 15-18 15v-8h-21z"/>
+    <path d="M474 272h21v-8l18 15-18 15v-8h-21z"/>
+    <path d="M696 272h21v-8l18 15-18 15v-8h-21z"/>
+    <path d="M918 272h21v-8l18 15-18 15v-8h-21z"/>
+  </g>
+
+  <rect x="64" y="391" width="1066" height="1" fill="#aec3ba"/>
+  <text x="64" y="432" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#6b7e77">VERIFIED PUBLIC EVIDENCE</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="64" y="458" width="238" height="92" rx="18" fill="#ffffff" opacity="0.9"/>
+    <text x="88" y="499" font-size="29" font-weight="700" fill="#123d35">60</text><text x="88" y="528" font-size="17" fill="#49645d">stable requirements</text>
+    <rect x="320" y="458" width="238" height="92" rx="18" fill="#ffffff" opacity="0.9"/>
+    <text x="344" y="499" font-size="29" font-weight="700" fill="#123d35">25</text><text x="344" y="528" font-size="17" fill="#49645d">JSON Schemas</text>
+    <rect x="576" y="458" width="238" height="92" rx="18" fill="#ffffff" opacity="0.9"/>
+    <text x="600" y="499" font-size="29" font-weight="700" fill="#123d35">16</text><text x="600" y="528" font-size="17" fill="#49645d">passing tests</text>
+    <rect x="832" y="458" width="298" height="92" rx="18" fill="#ffffff" opacity="0.9"/>
+    <text x="856" y="499" font-size="29" font-weight="700" fill="#123d35">1</text><text x="856" y="528" font-size="17" fill="#49645d">reviewed pilot cycle</text>
+  </g>
+  <text x="64" y="594" font-family="Arial, sans-serif" font-size="16" fill="#6b7e77">Private learner data remains outside the public repository.</text>
+</svg>
