@@ -1,10 +1,11 @@
-# AI-Assisted Language Learning System
+# AI Agent Workflow for Language Learning
 
 
-## A Privacy-First AI-Assisted Language Learning System
+## A Human-in-the-Loop Language Learning Prototype
 
 
-The AI-Assisted Language Learning System is an experimental, privacy-first system for converting
+AI Agent Workflow for Language Learning (repository: ai-assisted-language-learning-system)
+is an experimental, privacy-first workflow for converting
 selected everyday English reflections into traceable learning targets,
 structured notebooks, and governed Anki review material. It combines a
 human-in-the-loop learning protocol with schema-defined data contracts, Python
